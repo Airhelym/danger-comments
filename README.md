@@ -1,3 +1,8 @@
+注：本仓库仅用作本人进行论坛测试
+论坛程序为XiunoBBS
+
+
+
 ### 【Xiuno BBS 4.0 是什么？】
 Xiuno BBS 4.0 是一款轻论坛产品，前端基于 BootStrap 4.0、JQuery 3，后端基于 PHP/7 MySQL XCache/Yac/Redis/Memcached...
 
